@@ -1,7 +1,7 @@
 # gdg_tensorflow
-#GDG Austin:Simple Reinforcement Learning withtensorflow
 
-##Setup
+# GDG Austin:Simple Reinforcement Learning withtensorflow
+## Setup
 
 >OpenAI Gym was created for an Ubuntu environment and it's suggested that you do run it in that environment. (I have horror stories of trying to get it set up on Windows.)
 >You may need to install some pre-requisites before you get started:
